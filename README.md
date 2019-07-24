@@ -1,0 +1,2 @@
+# crowd_eval_server_sync
+部署至合作方服务器的代码版本
